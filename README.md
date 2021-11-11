@@ -42,10 +42,16 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### 🎓 &nbsp;Self Teaching
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
+
 
 ### 🤝🏻 &nbsp;Contact Me
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=summernight2001519@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://timeline.line.me/user/_dZJ35x5-AKigXhDWB8ealRrVmvS3YlFF-blT3PU?utm_medium=osx&utm_source=desktop&utm_campaign=Profile"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/XiaNight"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
 
